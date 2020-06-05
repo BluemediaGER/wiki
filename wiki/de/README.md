@@ -17,16 +17,16 @@ footer: Copyright © 2020 Beat Saber Modding Group | Lizensiert unter CC BY-NC-S
 :::
 
 ::: feature Erstellen von neuen Inhalten
-* [Erstellen von Mods](/modding/)
-* [Erstellen von BeatMaps](/mapping/)
-* [Erstellen von 3D Modellen](/models/)
+* [Erstellen von Mods](./modding/)
+* [Erstellen von BeatMaps](./mapping/)
+* [Erstellen von 3D Modellen](./models/)
 :::
 
 ::: feature Weitere Informationen
-* [Über uns](/about/)
+* [Über uns](./about/)
 * [Gesundheit und Sicherheit](./health-and-safety.md)
-* [Häufig gestellte Fragen](/faq/)
-* [Communities](/communities/)
+* [Häufig gestellte Fragen](./faq/)
+* [Communities](./communities/)
 :::
 
 </div>
