@@ -27,6 +27,10 @@ module.exports = {
       lang: 'fr-FR',
       title: 'Wiki BSMG',
     },
+    '/de/': {
+      lang: 'de-DE',
+      title: 'BSMG Wiki'
+    },
   },
 
   theme: 'yuu',
@@ -114,6 +118,46 @@ module.exports = {
             'linux',
           ]),
           '/fr/models/': generateSidebar('Modèles 3D', [
+            '',
+            'custom-sabers',
+            'custom-avatars',
+            'custom-platforms',
+            'custom-notes',
+          ]),
+        },
+      },
+      '/de/': {
+        selectText: 'Sprache',
+        label: 'Deutsch',
+        ariaLabel: 'Sprache',
+        editLinkText: 'Hilf mit, diese Seite zu verbessern!',
+        lastUpdated: 'Zuletzt aktualisiert',
+        nav: [
+          { text: 'Startseite', link: '/' },
+          { text: 'Anfänger-Guide', link: '/beginners-guide.md' },
+          { text: 'BSMG Discord', link: 'https://discord.gg/beatsabermods' },
+        ],
+        sidebar: {
+          '/about/': generateSidebar('Über uns', [
+            '',
+            'staff',
+            'moderators',
+            'modders',
+            'supports',
+            'mapping-supports',
+            '3d-artists',
+          ]),
+          '/faq/': generateSidebar('FAQ', [
+            '',
+            'install-folder',
+          ]),
+          '/modding/': generateSidebar('Modding', [
+            '',
+            'intro',
+            'extras',
+            'linux',
+          ]),
+          '/models/': generateSidebar('3D-Modelle', [
             '',
             'custom-sabers',
             'custom-avatars',
