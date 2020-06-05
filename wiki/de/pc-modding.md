@@ -17,8 +17,8 @@ Beat Saber unterstützt nativ selbst erstellte Songs, wenn das also alles ist, w
 
 ::: warning WARNUNG
 Dieser Leitfaden gilt nur für das Modding unter Windows.  
-Wenn Du eine Oculus Quest hast, lese Dir die [Quest-Modding-Seite](/quest-modding.md) durch.  
-Wenn Du unter Linux zu Hause bist, sehe Dir bitte die [Informationen zum Linux-Modding](/modding/linux.md) oder [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) an.
+Wenn Du eine Oculus Quest hast, lese Dir die [Quest-Modding-Seite](./quest-modding.md) durch.  
+Wenn Du unter Linux zu Hause bist, sehe Dir bitte die [Informationen zum Linux-Modding](./modding/linux.md) oder [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) an.
 :::
 
 Wenn Du irgendwann auf Probleme stoßen solltest, gehe bitte auf die [Support-Seite](./support) und schaue zuerst dort, ob Du herausfinden kannst, was schief gelaufen ist. Solltest Du hier keine Lösung finden, kannst Du anschließend im Support-Channel des Discord-Servers nachfragen. Wahrscheinlich findest Du die Antwort zu Deiner Frage jedoch auf dieser Seite!
@@ -91,12 +91,12 @@ __**Starte das Spiel mindestens einmal**__, bevor Du versuchst das Spiel zu modi
 
 ## Wo Du weiterlesen kannst (und solltest)
 * [Controllerhaltung und Ranking](./grips-and-tricks.md)
-* [Erstellen von eigenen Beatmaps](/mapping/)
-* [Erstellen von eigenen Schwertern](/models/custom-sabers.md)
-* [Erstellen von eigenen Avataren](/models/custom-avatars.md)
-* [Erstellen von eigenen Platformen](/models/custom-platforms.md)
+* [Erstellen von eigenen Beatmaps](./mapping/)
+* [Erstellen von eigenen Schwertern](./models/custom-sabers.md)
+* [Erstellen von eigenen Avataren](./models/custom-avatars.md)
+* [Erstellen von eigenen Platformen](./models/custom-platforms.md)
 * [Einrichtung von Multiplayer](https://bs.assistant.moe/Multiplayer/)
-* [Entwicklung von Mods](/modding/)
+* [Entwicklung von Mods](./modding/)
 
 ## Hast Du Fragen?
 Du kannst Dich gerne jederzeit an den Support-Channel des [BSMG Discord](https://discord.gg/beatsabermods) wenden!
